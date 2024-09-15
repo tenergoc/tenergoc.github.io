@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tenergoc.github.io/sitemap.html.gz
+Sitemap: https://tenergoc.github.io/app/sitemap.html.gz
+Sitemap: https://tenergoc.github.io/assets/sitemap.html.gz
+Sitemap: https://tenergoc.github.io/css/sitemap.html.gz
+Sitemap: https://tenergoc.github.io/includes/sitemap.html.gz
+Sitemap: https://tenergoc.github.io/item/sitemap.html.gz
+Sitemap: https://tenergoc.github.io/src/sitemap.html.gz
